@@ -1,5 +1,5 @@
 ## Contact
-[![Discord](https://img.shields.io/badge/wahooooooooooooooooooooooooooooo-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/692029084708110338)
+[![Discord](https://img.shields.io/badge/nommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/692029084708110338)
 ## Languages
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
